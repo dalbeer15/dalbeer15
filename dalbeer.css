@@ -33,3 +33,122 @@ animation-duration: 4s;
 
 }
 
+.secondclass{
+        font-size:80px ;
+color:red;
+
+transform:rotate(50deg);
+
+}
+.Divyanshu:hover{
+font-size: 40px;
+background-color:purple;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.mahima:hover{
+color:red;
+background-color: greenyellow;
+transform: rotate(40deg);
+font-size: 20px;
+border:solid;
+}
+.new:hover{height: 100px;
+width: 100px;
+text-align-last: calc(50%);
+background-color: aqua;
+color:red;
+border:double;
+}
+d{
+    height : 200px;
+    width: 200px;
+    background-color:pink;
+    border: solid;
+    border-color: black;
+    text-decoration: overline;
+    transform:rotate(45deg);
+    transform: skew(30deg);
+}
+.p{
+ display: inline; 
+border: groove 20px;
+border-radius: 100% ;
+border-color:red;
+weight: 1000px;
+height: 2000px;
+text-decoration:line-through;
+font-size: 30px;
+color:rgb(red,green,blue);
+}
+
+video{
+    width:10% ;
+    height: 30%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
